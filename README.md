@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I will use is the historical performance for each team in NBA league until 2017 seaon. My dataset includes the winning rate for each team in each season. And I need to organize these data, and calcualte the average winning rate for each team in a certain period, like three, five, or ten years. 
 
 ## Prototypes
 
