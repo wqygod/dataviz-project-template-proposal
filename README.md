@@ -6,22 +6,15 @@ The data I will use is the historical performance for each team in NBA league un
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. In this visulization, it shows two intersecting axis, which shows the recent winning rate and historical winning rate. This spite the graph into four differnent areas, and each area shows differnent performance. I think that will be clear to observe each team's performance.
+I’ve created a proof of concept visualization of this data. In this visulization, it shows two intersecting axis, which shows the recent winning rate and historical winning rate. This spite the graph into four differnent areas, and each area shows differnent performance. I think that will be clear to observe each team's performance. I will also replace these circles with differnent team's icon. 
 
 ![pro1](https://user-images.githubusercontent.com/54642539/220192532-59c55587-2c54-40f6-bef2-1e6389ca06b4.png)
-https://vizhub.com/wqygod/522246578b554f16996616b62d981db3
+https://vizhub.com/wqygod/522246578b554f16996616b62d981db3 (viz link)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
+I also hope to implement another function, if users click on the icon of the team, they can view the historical performace for that exactly team, this will shown as a Scatterplot. 
 
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
-
+![Pro2](https://user-images.githubusercontent.com/54642539/220193445-912b1656-24ea-4ab1-adfa-805310226906.png)
+https://vizhub.com/wqygod/52a31dcbdbf94f58b8ec75bcb3386bb5 (viz link)
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
