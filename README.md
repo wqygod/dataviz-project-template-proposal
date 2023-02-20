@@ -2,13 +2,14 @@
 
 ## Data
 
-The data I will use is the historical performance for each team in NBA league until 2017 seaon. My dataset includes the winning rate for each team in each season. And I need to organize these data, and calcualte the average winning rate for each team in a certain period, like three, five, or ten years. 
+The data I will use is the historical performance for each team in NBA league until 2017 seaon. My dataset includes the winning rate for each team in each season. And I need to organize these data, and calcualte the average winning rate for each team in a certain period, like three, five, or ten years. In my project, I will compare the recent winning rate and historical winning rate for each team to show their performance comparison.
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. In this visulization, it shows two intersecting axis, which shows the recent winning rate and historical winning rate. This spite the graph into four differnent areas, and each area shows differnent performance. I think that will be clear to observe each team's performance.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![pro1](https://user-images.githubusercontent.com/54642539/220192532-59c55587-2c54-40f6-bef2-1e6389ca06b4.png)
+https://vizhub.com/wqygod/522246578b554f16996616b62d981db3
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
