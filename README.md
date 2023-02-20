@@ -27,6 +27,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 In the first iteration, I draw several graphs and finally decide to use this one which is very similar with the first visualization graph. This will be the base sketch of the project.
+
 ![ske1](https://user-images.githubusercontent.com/54642539/220195827-14c1d29f-0b2b-4346-a344-a3f418e77dae.png)
 
 In he second iteration, I try to add more interaction in the project. I add three filters to pick recent 3, 5, and 10 years performance. And I try to use connected line to show the change on each team, I think this can compare the performance change easier.
@@ -40,9 +41,15 @@ I think the hardest part in my projrect is to add differnent interaction. Like m
 ## Milestones
 
 Week 7 - Orgnize currect dataset to put differnent data into differnt set. 
+
 week 8 - Put real data into intersecting graph and test problems.
+
 week 9 - Put each team's icon into graph, and calcualte winning rate in different periods
+
 week 10 - Put different period performance together
+
 week 11 - Add filter into graph and test the interaction of the graph
+
 week 12 & 13 - Add click function into graph and test all functions
+
 week 14 - Implement the connected line(is possiable), final visualizations
