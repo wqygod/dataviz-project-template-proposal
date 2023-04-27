@@ -19,7 +19,7 @@ In he second iteration, I try to add more interaction in the project. I add thre
 I’ve created a proof of concept visualization of this data. In this visulization, it shows two intersecting axis, which shows the recent winning rate and historical winning rate. This spite the graph into four differnent areas, and each area shows differnent performance. I think that will be clear to observe each team's performance. I will also replace these circles with differnent team's icon. 
 
 ![pro1](https://user-images.githubusercontent.com/54642539/220192532-59c55587-2c54-40f6-bef2-1e6389ca06b4.png)
-https://vizhub.com/wqygod/522246578b554f16996616b62d981db3 (viz link)
+https://vizhub.com/wqygod/522246578b554f16996616b62d981db3 
 
 then I make prototype which include some images in the graph. In this prototype, there is a menu which show several different year's data. 
 ![1](https://user-images.githubusercontent.com/54642539/235008450-7565212e-ff3e-4d35-98b0-12a8a89a21b7.png)
@@ -34,9 +34,11 @@ https://vizhub.com/wqygod/52a31dcbdbf94f58b8ec75bcb3386bb5 (viz link)
 
 Then I transalte this this scater plot to the line chart.
 ![3](https://user-images.githubusercontent.com/54642539/235009146-1784b426-178b-448c-9ec8-446d4b9aa18d.png)
+https://vizhub.com/wqygod/1dd1ce0d256a4513bd358ec42af9239d
 
 In order to observe all team, I put all team's data into the graph with differnnt colors. 
 ![5](https://user-images.githubusercontent.com/54642539/235011380-13498abe-bc3d-4198-8c85-58b74de73a9e.png)
+https://vizhub.com/wqygod/77da351ab1be43b89bc5d666a8147ae3?edit=files
 
 ** Future implement 
 
