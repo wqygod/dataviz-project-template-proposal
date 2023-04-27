@@ -27,6 +27,7 @@ then I make prototype which include some images in the graph. In this prototype,
 Then I improve this prototye futher more 
 This final viz contain all team's data, and users can choose which year's data they want to check. 
 ![2](https://user-images.githubusercontent.com/54642539/235008901-af0e063a-3c6e-4bbc-87f9-1b244ac8dfb7.png)
+https://vizhub.com/wqygod/77da351ab1be43b89bc5d666a8147ae3
 
 For another part of my project. that is the line chart for each team and check the genera situation for all team. 
 ![Pro2](https://user-images.githubusercontent.com/54642539/220193445-912b1656-24ea-4ab1-adfa-805310226906.png)
@@ -41,9 +42,6 @@ In order to observe all team, I put all team's data into the graph with differnn
 https://vizhub.com/wqygod/77da351ab1be43b89bc5d666a8147ae3?edit=files
 
 ** Future implement 
-
-week 11 - Add filter into graph and test the interaction of the graph
-
-week 12 & 13 - Add click function into graph and test all functions
-
-week 14 - Implement the connected line(is possiable), final visualizations
+In the future I want to put the data into the US mapm I have use world map to make some other prototypes with other dataset 
+![6](https://user-images.githubusercontent.com/54642539/235011909-cea8d60f-c712-4a70-87d8-322c64ae8004.png)
+https://vizhub.com/wqygod/e1ecf065e12e41e1b793e73922e6a53c
