@@ -11,7 +11,7 @@ I’ve created a proof of concept visualization of this data. In this visulizati
 ![pro1](https://user-images.githubusercontent.com/54642539/220192532-59c55587-2c54-40f6-bef2-1e6389ca06b4.png)
 https://vizhub.com/wqygod/522246578b554f16996616b62d981db3 (viz link)
 
-I also hope to implement another function, if users click on the icon of the team, they can view the historical performace for that exactly team, this will shown as a Scatterplot. 
+I also hope to implement another function, if users click on the icon of the team, they can view the historical performace for that exactly team, this will shown as a Scatterplot. This graph focus on the genera winning rate situation for each team. 
 
 ![Pro2](https://user-images.githubusercontent.com/54642539/220193445-912b1656-24ea-4ab1-adfa-805310226906.png)
 https://vizhub.com/wqygod/52a31dcbdbf94f58b8ec75bcb3386bb5 (viz link)
