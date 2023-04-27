@@ -15,14 +15,9 @@ I also hope to implement another function, if users click on the icon of the tea
 
 ![Pro2](https://user-images.githubusercontent.com/54642539/220193445-912b1656-24ea-4ab1-adfa-805310226906.png)
 https://vizhub.com/wqygod/52a31dcbdbf94f58b8ec75bcb3386bb5 (viz link)
-## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * Which teams did well in this season (2017-2018) and recent 5 seasons?
- * Is it possible to predict the state of the future season through the record in recent 5 years? 10 year?
- * Can a team with a poor record quickly improve its winning percentage through the draft?
- * Macroscopically observe what affects the team's winning percentage.
+Then I transalte this this scater plot to the line chart.
+https://vizhub.com/wqygod/4eadfd06d0384b1ab8cc018d59b9ed42
 
 ## Sketches
 
