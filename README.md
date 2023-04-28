@@ -44,5 +44,6 @@ https://vizhub.com/wqygod/77da351ab1be43b89bc5d666a8147ae3?edit=files
 ## Future Implement  
 
 In the future I want to put the data into the US mapm I have use world map to make some other prototypes with other dataset 
+I have use map and other dateset to build several map data viz, and I hope to put my NBA data into Unite State map
 ![6](https://user-images.githubusercontent.com/54642539/235011909-cea8d60f-c712-4a70-87d8-322c64ae8004.png)
 https://vizhub.com/wqygod/e1ecf065e12e41e1b793e73922e6a53c
